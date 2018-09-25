@@ -1,0 +1,22 @@
+.TodoListTile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #0CC5EB;
+    height: 40px;
+    color: white;
+}
+
+input {
+    border: 0px;
+    border-bottom: 1px solid black;
+}
+
+.button {
+    border: 1px solid white;
+    background: #0CC5EB;
+    color: white;
+    width: 50px;
+    padding: 5px;
+    margin-left: 10px;
+}
